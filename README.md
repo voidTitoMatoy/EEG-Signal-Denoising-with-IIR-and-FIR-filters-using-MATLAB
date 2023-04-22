@@ -1,7 +1,7 @@
 # EEG-Signal-Denoising-with-IIR-and-FIR-filters-with-MATLAB
 
 Submitted to Dr. Gerald Arada as our final project in SIGDISC.
-- Peruel, Ong, Laca, Dee
+Group: Superlink
 
 Abstract— The contamination of EEG signals with noise resulted in the loss of 
 significant information such as signal trends or spikes. This study examined the impact 
